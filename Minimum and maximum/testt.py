@@ -1,0 +1,1 @@
+print("Have you had enough hours of sleep today?" if answer == "yes": print("Let's drink cocoa!") else print("I'd recommend a coffee!")

@@ -1,0 +1,5 @@
+num_max = int(input())
+num_min = int(input())
+num_x = (num_max, num_min)
+print(max(num_x))
+print(min(num_x))
